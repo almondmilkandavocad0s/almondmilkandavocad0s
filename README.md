@@ -6,7 +6,8 @@ My journey has been shaped by a diverse range of experiences, from developing tr
 
 I am committed to continuous learning and growth, always seeking new opportunities to expand my knowledge and skills in the ever-evolving field of data and AI.
 
-My Github portfolio showcases any/all projects that I work on. 
+Lately, I’ve been exploring the fast-paced field of AI Engineering, with a particular focus on Educational Data Mining and Learning Analytics. 
+However, my Github portfolio showcases any/all projects that I work on. 
 
 <!--
 **almondmilkandavocad0s/almondmilkandavocad0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

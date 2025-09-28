@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ Nice to meet you!
 
-I am a seasoned, hybrid **Computer Science professional** with a passion for data and research-backed product development. My expertise lies at the intersection of data analysis, visualization, and software development, where I leverage my skills to create impactful solutions that drive informed decision-making. I thrive on the challenge of transforming complex data into actionable insights. I enjoy collaborating with peers across academia in my learning analytics work.
+I am a seasoned, hybrid **Computer Science professional** with a passion for data and research-backed product development. My expertise lies at the **intersection of data analysis, visualization, and software development**, where I leverage my skills to create impactful solutions that drive informed decision-making. I thrive on the challenge of transforming complex data into actionable insights. I enjoy collaborating with peers across academia in my learning analytics work.
 
 My journey has been shaped by a diverse range of experiences, from developing transformative software solutions in the insurance industry to mentoring and guiding students as a teaching assistant during my grad school. I have a Master's degree in Computer Science from the University of Nebraska-Lincoln, where I honed my skills in data analysis and software development. I have also contributed to research publications, showcasing my commitment to advancing knowledge in the field.
 

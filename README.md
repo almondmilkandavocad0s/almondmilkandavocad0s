@@ -1,4 +1,4 @@
-# 🙋🏻‍♀️ Nice to meet you!
+# 🙋🏻‍♀️ Glad you're here!
 
 I am a seasoned, hybrid **Computer Science professional** with a passion for data and research-backed product development. My expertise lies at the **intersection of data analysis, visualization, and software development**, where I leverage my skills to create impactful solutions that drive informed decision-making. I thrive on the challenge of transforming complex data into actionable insights. I enjoy collaborating with peers across academia in my learning analytics work.
 

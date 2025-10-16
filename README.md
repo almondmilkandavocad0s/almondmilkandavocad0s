@@ -6,7 +6,7 @@ I currently work in Higher-Ed, where I create full-scale internal data products 
 
 My journey has been shaped by a diverse range of experiences, from developing transformative software solutions in the insurance industry to mentoring and guiding students as a teaching assistant during my grad school. I have a **Master's degree in Computer Science** from the [University of Nebraska-Lincoln](https://www.unl.edu/), where I honed my skills in problem solving, academic reseach, and coding. I have contributed to research publications, and graduated with a [Masters' Thesis](https://digitalcommons.unl.edu/computerscidiss/118/), showcasing my commitment to advancing knowledge in the field.
 
-I am inclined towards expanding my professional expertise, always seeking opportunities to upskill to make era-relevant contributions in the spate of Computer Science.
+To make era-relevant contributions in Computer Science, I am continuously expanding my professional expertise, always seeking opportunities to upskill and keep pace with the ongoing spate of innovation.
 
 Lately, I’ve been exploring the fast-paced field of AI Engineering, with focussed interests in **Educational Data Mining and Learning Analytics**. 
 

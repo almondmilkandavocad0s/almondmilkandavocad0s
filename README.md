@@ -16,5 +16,5 @@ But, as a jack of many trades, my Github portfolio showcases a variety of projec
 <br>
 
 **^** _My_ _contributions were the following:_ <br>
-**Website:** Layout and content <br>
-**Dashboards:** Low-Click Learners, Performance Deep Dive, Activity Turn-in Time, Learner's Performance Overview, Learner's Workload
+**Product Website:** Layout and content<br>
+**Dashboards** _(Conception, Design, Implementation, and Maintanence)_**:** Low-Click Learners, Performance Deep Dive, Activity Turn-in Time, Learner's Performance Overview, Learner's Workload 

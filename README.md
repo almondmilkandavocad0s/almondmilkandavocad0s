@@ -1,21 +1,15 @@
 # 🙋🏻‍♀️ Glad you're here!
 
-I'm a high-performing full-stack data product developer with over 10 years of experience in end-to-end data product development. My background is defined by a hybrid skillset spanning Data Analysis, Data Engineering, and Software Engineering, all grounded in my Master’s degree in Computer Science from the University of Nebraska-Lincoln.
+I am a high-performing full-stack data product developer with a Master’s degree in Computer Science and over 10 years of experience in end-to-end software solutions, _specializing in data product development_ over the last 6 years. My expertise lies at the powerful intersection of data analysis, data engineering, and software engineering, allowing me to build impactful solutions from the ground up.
 
-**Impact & Expertise**
+My professional focus is in Higher Education, where I leverage data to drive student success. I have a proven track record of:
 
-I specialize in creating enterprise-scale data solutions that drive informed decision-making in the Higher Education sector. My proven track record includes:
+  * Architecting high-volume data marts and developing enterprise-scale learning analytics dashboards that serve entire campuses.
 
-Architecting high-volume data marts for institutional use.
+  * Building automation tools that have achieved up to 90% time savings.
 
-Developing enterprise-scale learning analytics dashboards serving entire campuses.
+  * Translating complex technical and analytical findings into clear, actionable insights for both executive leadership and daily end-users.
 
-Building robust automation tools that have achieved up to 90% time savings for critical processes.
+Currently, I am focused on building AI-Augmented Applications in Learning Analytics to directly drive improved student academic outcomes.
 
-I excel at translating complex technical findings into clear, actionable insights for both executive leadership and daily end-users.
-
-**Interests**
-
-I am currently focused on advancing the field of Learning Analytics by building AI Augmented Applications designed to directly drive and improve student academic outcomes.
-
-This portfolio reflects my commitment to continuous learning, showcasing personal projects where I explore AI Engineering, Educational Data Mining, and other innovative technologies to stay at the forefront of the industry.
+I hold a *Master's degree in Computer Science* from the [University of Nebraska-Lincoln](https://www.unl.edu/), where I honed my skills through academic research and completing a [Master’s Thesis](https://digitalcommons.unl.edu/computerscidiss/118/). I am continuously expanding my expertise in AI Engineering and (Educational) Data Mining to make era-relevant contributions to the field.

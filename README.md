@@ -1,20 +1,21 @@
 # 🙋🏻‍♀️ Glad you're here!
 
-I am a hybrid **Computer Science professional** with a passion for developing data-driven products, with over a decade of experience. My expertise lies at the **intersection of data analysis, visualization, and software development**, where I leverage my skills to create impactful solutions that drive informed decision-making.
+I'm a high-performing full-stack data product developer with over 10 years of experience in end-to-end data product development. My background is defined by a hybrid skillset spanning Data Analysis, Data Engineering, and Software Engineering, all grounded in my Master’s degree in Computer Science from the University of Nebraska-Lincoln.
 
-I currently work in Higher-Ed, where I create full-scale internal data products [like this one ^](https://analytics.unl.edu/), to enrich teaching and learning and drive better academic outcomes at our institution. I also enjoy collaborating with my peers in my learning analytics work.
+**Impact & Expertise**
 
-My journey has been shaped by a diverse range of experiences, from developing transformative software solutions in the insurance industry to mentoring and guiding students as a teaching assistant during my grad school. I have a **Master's degree in Computer Science** from the [University of Nebraska-Lincoln](https://www.unl.edu/), where I honed my skills in problem solving, academic reseach, and coding. I have contributed to research publications, and graduated with a [Masters' Thesis](https://digitalcommons.unl.edu/computerscidiss/118/), showcasing my commitment to advancing knowledge in the field.
+I specialize in creating enterprise-scale data solutions that drive informed decision-making in the Higher Education sector. My proven track record includes:
 
-To make era-relevant contributions in Computer Science, I am continuously expanding my professional expertise, always seeking opportunities to upskill and keep pace with the ongoing spate of innovation.
+Architecting high-volume data marts for institutional use.
 
-Lately, I’ve been exploring the fast-paced field of AI Engineering, with focussed interests in **Educational Data Mining and Learning Analytics**. 
+Developing enterprise-scale learning analytics dashboards serving entire campuses.
 
-But, as a jack of many trades, my Github portfolio showcases a variety of projects that I dabble with in my personal time to stay on top of my career game. 
+Building robust automation tools that have achieved up to 90% time savings for critical processes.
 
----
-<br>
+I excel at translating complex technical findings into clear, actionable insights for both executive leadership and daily end-users.
 
-**^** _My_ _contributions were the following:_ <br>
-**Product Website:** Layout and content<br>
-**Dashboards** _(Conception, Design, Implementation, and Maintanence)_**:** Low-Click Learners, Performance Deep Dive, Activity Turn-in Time, Learner's Performance Overview, Learner's Workload 
+**Interests**
+
+I am currently focused on advancing the field of Learning Analytics by building AI Augmented Applications designed to directly drive and improve student academic outcomes.
+
+This portfolio reflects my commitment to continuous learning, showcasing personal projects where I explore AI Engineering, Educational Data Mining, and other innovative technologies to stay at the forefront of the industry.

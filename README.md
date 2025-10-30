@@ -1,15 +1,15 @@
 # 🙋🏻‍♀️ Glad you're here!
 
-I am a high-performing full-stack data product developer with a Master’s degree in Computer Science and over 10 years of experience in end-to-end software solutions, _specializing in data product development_ over the last 6 years. My expertise lies at the powerful intersection of data analysis, data engineering, and software engineering, allowing me to build impactful solutions from the ground up.
+I'm a full-stack data product developer with over 10 years of software experience, and for the last 6 years, I've been deep in the world of data products. I've got a Master's in Computer Science from [UNL](https://www.unl.edu/) where I honed my skills through academic research and completing a [Master’s Thesis](https://digitalcommons.unl.edu/computerscidiss/118/). But, what I really bring to the table is a *hybrid brain*: I speak data analysis, data science, data engineering, and software engineering, which lets me build robust, impactful solutions from scratch.
 
-My professional focus is in Higher Education, where I leverage data to drive student success. I have a proven track record of:
+My current focus is in Higher Education, making sure data helps students win, and faculty and admins make data-informed decisions. I've been the one behind the scenes
 
-  * Architecting high-volume data marts and developing enterprise-scale learning analytics dashboards that serve entire campuses.
+   * Building voluminous data marts and use them by creating campus-wide learning analytics dashboards that stakeholders use
 
-  * Building automation tools that have achieved up to 90% time savings.
+   * Taking complex technical findings and turning them into simple, actionable insights for everyone from senior-level execs to the daily end-user
 
-  * Translating complex technical and analytical findings into clear, actionable insights for both executive leadership and daily end-users.
+My past life in software engineering also included whipping up automation tools that seriously saved time by increasing operational efficiencies for insurance account managers and service reps!
 
-Currently, I am focused on building AI-Augmented Applications in Learning Analytics to directly drive improved student academic outcomes.
+Right now, I'm channeling all that into my latest obsession: AI-Augmented Applications in Learning Analytics to directly boost student success. I'm always upskilling in AI Engineering and (Educational) Data Mining to stay on the cutting edge.
 
-I hold a *Master's degree in Computer Science* from the [University of Nebraska-Lincoln](https://www.unl.edu/), where I honed my skills through academic research and completing a [Master’s Thesis](https://digitalcommons.unl.edu/computerscidiss/118/). I am continuously expanding my expertise in AI Engineering and (Educational) Data Mining to make era-relevant contributions to the field.
+My GitHub is where I tinker, build, and explore. Check out the projects below!
